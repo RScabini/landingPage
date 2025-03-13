@@ -1,3 +1,3 @@
 # landingPage
 camelCase
-<blockquote>Frase Representacion</blockquote>
+<blockquote>Frase Representativa del archivo</blockquote>
